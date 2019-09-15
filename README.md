@@ -10,3 +10,6 @@ I am using the raspberry pi's GPIO pins to connect the ultrasound sensors.
 
 
 The idea is to connect the system to the person's spotify account and control the volume of the spotify account. The reason for this is because it requires no physical connecting to the persons speaker. This makes the idea more portable.
+
+**The python file will incorporate javascript to interact with spotify.
+**The code so far is on the raspberry pi and i havent had the chance to upload it here.
